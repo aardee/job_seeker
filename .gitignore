@@ -1,0 +1,30 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# ignore .env file in root and all subdirectories
+.env
+
+//ignore data director and all file in it
+data/
+
+# ignore .DS_Store file in root and all subdirectories
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+*.log
+*.log.*
+*.log.*.*
+*.log.*.*.*  s
